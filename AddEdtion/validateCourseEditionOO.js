@@ -11,7 +11,7 @@ let validator = {
        let validDate = false;
        let validID = false;
        let validMod = false;
-       let validName = false;
+       
      
 
     }
