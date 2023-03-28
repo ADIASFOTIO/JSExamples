@@ -12,13 +12,7 @@ let validator = {
        let validID = false;
        let validMod = false;
        let validName = false;
-        validateForm: Function(e){
-            if(!validDate || !validID || !validMod || !validName) {
-            btnAddCE.disabled = true;
-            } else {
-            btnAddCE.disabled = false;
-           }
-        },
+     
 
     }
 }
