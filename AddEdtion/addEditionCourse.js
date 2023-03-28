@@ -14,7 +14,6 @@
 
 const btnAddCE = document.querySelector("#addEditionButton");
 let actualDate = new Date(Date.now());
-
 let insDate = document.querySelector("#date");
 let insIdCourse = document.querySelector("#idCourse");
 let insModules = document.querySelector("#modulesNumber");
